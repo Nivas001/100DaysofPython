@@ -15,4 +15,4 @@ def calculate_love_score(fir_person, sec_person):
 
     print(f"{true_score}{love_score}")
 
-calculate_love_score("Kanye West".upper(), "Kim Kardashian".upper())
+calculate_love_score("Wafiq".upper(), "laaracraft".upper())
